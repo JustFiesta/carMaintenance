@@ -1,0 +1,13 @@
+[package]
+name = "car_maintenance"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.30" #simple funcionality for dates
+argon2rs = "0.2.5" #very safe hashing algorithm crate
+hex = "0.4.3" #for converting hash table to String
+rand = "0.8.5" #generate random numbers
+rusqlite = "0.29.0" #sqlite database for rust

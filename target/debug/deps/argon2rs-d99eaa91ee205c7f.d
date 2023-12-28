@@ -1,0 +1,11 @@
+C:\Users\Masti\Desktop\Programowanie\Rust\car_maintenance\target\debug\deps\argon2rs-d99eaa91ee205c7f.rmeta: C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\lib.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\octword.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\block.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\argon2.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\verifier.rs
+
+C:\Users\Masti\Desktop\Programowanie\Rust\car_maintenance\target\debug\deps\libargon2rs-d99eaa91ee205c7f.rlib: C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\lib.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\octword.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\block.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\argon2.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\verifier.rs
+
+C:\Users\Masti\Desktop\Programowanie\Rust\car_maintenance\target\debug\deps\argon2rs-d99eaa91ee205c7f.d: C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\lib.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\octword.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\block.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\argon2.rs C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\verifier.rs
+
+C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\lib.rs:
+C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\octword.rs:
+C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\block.rs:
+C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\argon2.rs:
+C:\Users\Masti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2rs-0.2.5\src\verifier.rs:
